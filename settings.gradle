@@ -1,0 +1,3 @@
+include ':fixtimer'
+include ':app'
+rootProject.name = "FixTimer"
